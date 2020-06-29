@@ -114,6 +114,11 @@ body {
     text-decoration: none;
     
 }
+.second-nav ul li a:hover {
+    color: #169df7;
+    text-decoration: none;
+    font-size: large;
+}
 .second-nav ul li:last-child{
     border-style: none;
 }
